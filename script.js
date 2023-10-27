@@ -12,6 +12,7 @@ const catGifFiles = [
   "cat7.gif"
 ];
 
+
 let last = ""
 
 showCatButton.addEventListener("click", function () {
